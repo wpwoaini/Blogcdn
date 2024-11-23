@@ -5,11 +5,11 @@ fetch('https://tongji.090227.xyz/?id=hexo.200038.xyz')
     .catch(e => document.getElementById('visitCount').innerText = '加载失败'); // 错误处理
 
 const urls = [
-    "https://hexo.200038.xyz#Cloudflare CDN",
-    "https://fastly.hexo.200038.xyz#Fastly CDN",
-    "https://gcore.hexo.200038.xyz#Gcore CDN",
-    "https://vercel.hexo.200038.xyz#Vercel CDN",
-    "https://xn--yhq50f2v6f.us.kg#备用地址"
+    "https://blog.wewoaini.us.kg#Cloudflare CDN",
+    "https://blog.wewoaini.us.kg#Fastly CDN",
+    "https://blog.wewoaini.us.kg#Gcore CDN",
+    "https://blog.wewoaini.us.kg#Vercel CDN",
+    "https://blog.wewoaini.us.kg#备用地址"
 ];
 
 // 动态生成URL列表
