@@ -1,5 +1,5 @@
 // 通过fetch获取API并展示visitCount
-fetch('https://tongji.090227.xyz/?id=hexo.200038.xyz')
+fetch('https://tongji.090227.xyz/?id=blog.wewoaini.us.kg')
     .then(r => r.json()) // 转换为JSON
     .then(d => document.getElementById('visitCount').innerText = d.visitCount) // 显示visitCount
     .catch(e => document.getElementById('visitCount').innerText = '加载失败'); // 错误处理
