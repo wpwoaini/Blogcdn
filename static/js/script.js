@@ -5,7 +5,7 @@ fetch('https://blog.wewoaini.us.kg')
     .catch(e => document.getElementById('visitCount').innerText = '加载失败'); // 错误处理
 
 const urls = [
-    "https://blog.wewoaini.us.kg#Cloudflare CDN",
+    "https://origin.we20040120.us.kg#Cloudflare CDN",
     "https://blog.wewoaini.us.kg#Fastly CDN",
     "https://blog.wewoaini.us.kg#Gcore CDN",
     "https://vercel.wandering.dynv6.net#Vercel CDN",
