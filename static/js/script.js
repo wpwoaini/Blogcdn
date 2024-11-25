@@ -8,7 +8,7 @@ const urls = [
     "https://blog.wewoaini.us.kg#Cloudflare CDN",
     "https://blog.wewoaini.us.kg#Fastly CDN",
     "https://blog.wewoaini.us.kg#Gcore CDN",
-    "https://blog.wewoaini.us.kg#Vercel CDN",
+    "https://vercel.wandering.dynv6.net#Vercel CDN",
     "https://blog.wewoaini.us.kg#备用地址"
 ];
 
