@@ -7,7 +7,7 @@ fetch('https://blog.wewoaini.us.kg')
 const urls = [
     "https://origin.we20040120.us.kg#Cloudflare CDN",
     "https://blog.wewoaini.us.kg#Fastly CDN",
-    "https://blog.wewoaini.us.kg#Gcore CDN",
+    "https://blog1.we20040120.us.kg#Gcore CDN",
     "https://vercel.wandering.dynv6.net#Vercel CDN",
     "https://blog.wewoaini.us.kg#备用地址"
 ];
