@@ -5,11 +5,11 @@ fetch('https://tongji.090227.xyz/?id=blog.wewoaini.us.kg')
     .catch(e => document.getElementById('visitCount').innerText = '加载失败'); // 错误处理
 
 const urls = [
-    "https://origin.we20040120.us.kg#Cloudflare CDN",
-    "https://blog2.wandering.dynv6.net#Fastly CDN",
-    "https://blog1.we20040120.us.kg#Gcore CDN",
-    "https://vercel.wandering.dynv6.net#Vercel CDN",
-    "https://blog.wewoaini.us.kg#备用地址"
+    "https://origin.we20040120.us.kg/#Cloudflare CDN",
+    "https://blog2.wandering.dynv6.net/#Fastly CDN",
+    "https://blog1.we20040120.us.kg/#Gcore CDN",
+    "https://vercel.wandering.dynv6.net/#Vercel CDN",
+    "https://blog.wewoaini.us.kg/#备用地址"
 ];
 
 // 动态生成URL列表
